@@ -1,0 +1,14 @@
+Felipe Guth - 14210231
+
+Assume your company wants to use cloud as its disk-backup. What are the advantages and disadvantages would you consider?
+
+Some of the main advantages of using the cloud as a disk-backup are:
+Cost: Using the cloud as disk-backup eliminates considerable cost regarding number of hard drives, energy, specialized employees, air-conditioning and so far.
+Risk: The backup of data outside the company prevents the losing of data originated by random accidents, human failure or hardware failure.
+Scalability: When more space is needed the DBA can scale the system in an easy and rapid way.
+Maintenance: By using a cloud computing service all the maintenance of hardware, software and physical structure is executed by the provider if using a SaaS.  
+
+Some disadvantages are:
+
+If using IaaS: Manage all software installed in the infrastructure and the responsibility for maintaining all the software up to date.
+Unwanted Access: Since the data is at a third-party company, there is no guarantee of the privacy of the information anymore.

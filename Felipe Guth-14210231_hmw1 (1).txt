@@ -1,0 +1,3 @@
+Felipe Guth - 14210231
+Which type of cloud services do Dropbox and Google Drive belong to (IaaS, PaaS, or SaaS)?  Explain your answer.
+Dropbox and Google Drive belong to the SaaS category. The users of these services consume a pre-built program that is offered as storage and sharing service.  The users of these applications do not have to configure and build a specific application based in a platform as in PaaS neither specify infrastructure for developing, running, and storing an app in cloud environments as in IaaS. They just make use of a Software as a Service: SaaS. 

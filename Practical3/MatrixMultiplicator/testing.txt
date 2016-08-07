@@ -1,0 +1,2 @@
+cat A.txt B.txt | ./mapper.py 2 2 2 | ./reducer.py 
+

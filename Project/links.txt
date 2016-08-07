@@ -1,0 +1,10 @@
+http://www.michael-noll.com/tutorials/running-hadoop-on-ubuntu-linux-single-node-cluster/
+
+
+http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-common/FileSystemShell.html
+
+http://blog.cloudera.com/blog/2013/01/a-guide-to-python-frameworks-for-hadoop/
+
+http://www.tnoda.com/blog/2013-11-23
+
+http://docs.aws.amazon.com/ElasticMapReduce/latest/DeveloperGuide/UseCase_Streaming.html
